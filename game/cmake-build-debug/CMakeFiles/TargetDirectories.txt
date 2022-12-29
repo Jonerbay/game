@@ -1,0 +1,3 @@
+/home/jonerbay/Downloads/Telegram Desktop/game/game/game/cmake-build-debug/CMakeFiles/game.dir
+/home/jonerbay/Downloads/Telegram Desktop/game/game/game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jonerbay/Downloads/Telegram Desktop/game/game/game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
